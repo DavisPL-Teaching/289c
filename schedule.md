@@ -4,7 +4,7 @@ There are 28 days in the class.
 Each day will have an assigned presenter to lead the discussion.
 Depending on how things go, I may reserve some days for special lectures from me (probably some lectures on program correctness and program verification).
 
-## Module 1: PL Foundations
+## Module 1: Programming Languages Foundations
 
 | Week | Date | Topic | Discussion Leader | Readings |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Depending on how things go, I may reserve some days for special lectures from me
 |   | April 24 |  |  |  |
 |   | April 26 |  |  |  |
 
-## Module 2: Modern PL Research Topics
+## Module 2: Modern Programming Languages Research Topics
 
 | Week | Date | Topic | Discussion Leader | Readings |
 | --- | --- | --- | --- | --- |

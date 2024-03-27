@@ -53,9 +53,8 @@ See `schedule.md`.
 
 ## AI Policy
 
-I encourage the use of AI to collaborate and help you understand readings.
-However, you should be prepared to discuss the material in class, including any comments you write.
-Using AI assistants too heavily can prevent you from thinking critically about research on your own.
+I encourage the use of AI to assist with your work (for example, to help you understand the readings).
+You should be prepared to discuss the material in class, including any comments you write.
 
 ## Contact and office hours
 
