@@ -7,7 +7,7 @@ Depending on how things go, I may reserve some days for special lectures from me
 ## Module 1: PL Foundations
 
 | Week | Date | Topic | Discussion Leader | Readings |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | April 1 | Introduction, logistics, and decide presentation schedule | Caleb (Instructor) |  |
 |   | April 3 | How to Read Research Papers | Caleb | How to Read a Paper: The 3-pass approach |
 |   | April 5 |  |  |  |
@@ -23,6 +23,8 @@ Depending on how things go, I may reserve some days for special lectures from me
 
 ## Module 2: Modern PL Research Topics
 
+| Week | Date | Topic | Discussion Leader | Readings |
+| --- | --- | --- | --- | --- |
 | 5 | April 29 |  |  |  |
 |   | May 1 |  |  |  |
 |   | May 3 |  |  |  |
@@ -38,6 +40,8 @@ Depending on how things go, I may reserve some days for special lectures from me
 
 ## Module 3: Extra topics and final projects
 
+| Week | Date | Topic | Discussion Leader | Readings |
+| --- | --- | --- | --- | --- |
 | 9 | **No Class** (Memorial Day) |  |  |  |
 |   | May 29 | Overflow / TBD |  |  |
 |   | May 31 | How to Get Involved in Research | Caleb |  |
