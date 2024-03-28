@@ -73,10 +73,10 @@ Other possibilities:
 |   | May 10 |  |  |  |
 | 7 | May 13 |  |  |  |
 |   | May 15 |  |  |  |
-|   | May 17 |  |  |  |
+|   | May 17 |  |  | Final project proposals due |
 | 8 | May 20 |  |  |  |
 |   | May 22 |  |  |  |
-|   | May 24 |  |  | Final project proposals due |
+|   | May 24 |  |  |  |
 
 ## Module 3: Extra topics and final projects
 

@@ -13,14 +13,20 @@
 Welcome! This course is a graduate seminar.
 We will cover topics in programming languages and related areas at a research level. Topics include: programming language design, type systems, program testing and bug-finding, program verification, side effects, system-building, and applications. The primary focus of the course will be on reading papers and assigned presentations. There will also be a final project to synthesize 3 papers in an area of your choosing into either a research report or an implementation.
 
+Class discussions will be through [Piazza](https://piazza.com/class/lt90mfmxztd4zy) and [Perusall](https://app.perusall.com/join/stanford-mbthq).
+The paper readings can be found on Perusall.
+
 ## Expected Work
 
 The main focus of the course will be on reading papers and class discussions.
 One student will be assigned to present each paper.
 That means that each student will lead about one presentation every 2 weeks, or 4 presentations total, depending on the final number of students enrolled.
 
-Besides the presenter, everyone else should also come prepared with notes of what they liked or didn't like about the paper under discussion, and any questions they had about it.
-To encourage discussions, there will be a small amount of participation credit.
+To help you get the most of the readings, there will be a Piazza thread where everyone should post their overall thoughts on the reading for that week.
+For example, what did you like about the paper? What did you not like about the paper? What questions do you have?
+In addition, you are welcome to discuss the readings through Perusall.
+To encourage discussions, there will be a small amount of participation credit for the Piazza posts and for overall engagement on Perusall and/or in class.
+(TODO: decide which to actually use)
 
 There will also be a final project which consists of one of two options:
 1. A software project of your choice to explore an idea covered in 2-3 papers in an active research area;
@@ -34,10 +40,10 @@ No prior background or research experience in programming languages will be requ
 ## Learning Objectives
 
 By the end of the course, students should be able to:
-- Understand the foundational ideas and ways of thinking in programming languages
-- Understand the main active areas of research in programming languages
-- Read a research paper and think critically about its findings
-- Prepare a presentation about a research paper
+- Understand the foundational ideas and ways of thinking in programming languages.
+- Understand the main active areas of research in programming languages.
+- Read a research paper and think critically about its findings.
+- Prepare a presentation about a research paper.
 - Lead and participate in research-level discussions.
 
 ## Course Schedule
@@ -47,13 +53,13 @@ See `schedule.md`.
 ## Evaluation Criteria
 
 - **Discussion leads (20%):** Based on the discussions that you individually lead.
-- **Weekly reports (20%):** Weekly reports on the readings for that week.
-- **Weekly participation (10%):** I expect everyone will get these points.
-- **Final Project or Final Report (50%)** You may choose either one.
+- **Asynchronous participation (15%):** Reading threads for each paper on Piazza/Perusall
+- **In-class participation (15%):** Awarded at end of quarter. I don't expect to deduct points here except in unusual circumstances.
+- **Final Project or Final Report (50%):** You may choose either one.
 
 ## AI Policy
 
-I encourage the use of AI to assist with your work (for example, to help you understand the readings).
+I encourage the use of AI if it helps your workflow (for example, to help you understand the readings).
 You should be prepared to discuss the material in class, including any comments you write.
 
 ## Contact and office hours
