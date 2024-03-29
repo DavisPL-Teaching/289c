@@ -25,9 +25,8 @@ In addition, you may use Piazza and Perusall to help with reading and understand
 
 One student will be assigned to lead each discussion.
 That means that each student will lead about one discussion every 2 weeks (4 discussions total), depending on the final number of students enrolled.
-For discussion leads, I recommend that you start with a short presentation about the main ideas in the paper (about ~15 minutes, max. 10 slides), including things you liked and didnt' like, followed by 10 slides with questions for discussion (1 question per slide).
-
-(This structure is subject to change; if needed we may adapt as the class progresses to ensure the format is useful, engaging, and inclusive.)
+For discussion leads, I recommend that you start with a short presentation about the main ideas in the paper (about ~20 minutes, max. 20 slides), including things you liked and didnt' like, followed by 10 slides with questions for discussion (1 question per slide).
+(This structure is subject to change; if needed we may adapt as the class progresses to ensure the format is working!)
 
 Lastly, there will be a final project which consists of one of two options:
 1. A software project of your choice to explore an idea covered in 2-3 papers in an active research area;
@@ -41,10 +40,10 @@ No prior background or research experience in programming languages will be requ
 ## Learning Objectives
 
 By the end of the course, students should be able to:
+- Understand the foundational ideas and major papers in programming languages.
+- Understand the main active areas of research in programming languages.
 - Read a research paper and think critically about its findings.
 - Lead and participate in research-level discussions.
-- Understand the foundational ideas and ways of thinking in programming languages.
-- Understand the main active areas of research in programming languages.
 
 ## Course Schedule
 
@@ -52,7 +51,7 @@ See `schedule.md`.
 
 ## Evaluation Criteria
 
-- **Attendance (10%)** -- Note: you will be allowed a buffer of 3 free absences; please don't attend class if you are sick. If you need to be absent for more than 3 classes, let me know.
+- **Attendance and participation (10%)** -- Note: you will be allowed a buffer of 3 free absences; please don't attend class if you are sick. If you need to be absent for more than 3 classes, let me know.
 - **Reading summaries (20%)** -- posted on Piazza for each paper.
 - **Discussion leads (20%)** -- based on the discussions that you individually lead.
 - **Final Project or Final Report (50%)** -- this includes a final presentation.
