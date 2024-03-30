@@ -2,7 +2,7 @@
 
 There are 28 days in the class.
 Each day will have an assigned presenter to lead the discussion.
-Depending on how things go, I may reserve some days for special lectures from me (probably some lectures on program correctness and program verification).
+Depending on how things go, I may reserve some days for special lectures from me (for example, some lectures on program correctness and program verification and general research skills).
 
 ## Module 1: Programming Languages Foundations
 
@@ -10,7 +10,7 @@ Depending on how things go, I may reserve some days for special lectures from me
 | --- | --- | --- | --- | --- |
 | 1 | April 1 | Introduction, logistics, and decide presentation schedule | Caleb (Instructor) |  |
 |   | April 3 | How to Read Research Papers | Caleb | How to Read a Paper: The 3-pass approach |
-|   | April 5 |  |  |  |
+|   | April 5 |  | Caleb |  |
 | 2 | April 8 |  |  |  |
 |   | April 10 |  |  |  |
 |   | April 12 |  |  |  |
