@@ -4,6 +4,7 @@
 
 - **Instructor:** Caleb Stanford
 - **CRN:** 57017
+- **Units:** 4 (please change this in schedule builder!)
 - **Listed Title:** Special Topics in Programming Languages and Compilers
 - **Schedule:** Monday, Wednesday, Friday 2:10-3pm
 - **Location:** Giedt 1006
@@ -60,6 +61,12 @@ See `schedule.md`.
 
 I encourage the use of AI if it helps your workflow (for example, to help you understand the readings).
 You should be prepared to discuss the material in class, including any comments you write.
+
+## Collaboration Policy
+
+You may collaborate on the final project,
+in groups of 2-3 people.
+Please submit only one report for the group.
 
 ## Contact and office hours
 
