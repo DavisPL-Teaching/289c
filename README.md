@@ -52,10 +52,20 @@ See `schedule.md`.
 
 ## Evaluation Criteria
 
-- **Attendance and participation (10%)** -- Note: you will be allowed a buffer of 3 free absences; please don't attend class if you are sick. If you need to be absent for more than 3 classes, let me know.
+In-class participation (25%):
+- **Attendance and participation (15%)** -- attending the class and pariticipating in group activities.
+- **Discussion leads (10%)** -- based on the discussions that you individually lead.
+
+Outside-of-class participation (25%):
+- **Perusall (5%)** -- participation on Perusall
 - **Reading summaries (20%)** -- posted on Piazza for each paper.
-- **Discussion leads (20%)** -- based on the discussions that you individually lead.
+
+Final project (50%):
 - **Final Project or Final Report (50%)** -- this includes a final presentation.
+
+## Attendance
+
+You will be allowed a buffer of 3 free absences; please don't attend class if you are sick. If you need to be absent for more than 3 classes, let me know.
 
 ## AI Policy
 
