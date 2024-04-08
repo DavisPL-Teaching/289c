@@ -1,3 +1,7 @@
+# Note: This schedule is out of date.
+
+Please see the spreadsheet linked on Piazza for an up-to-date schedule.
+
 # Schedule
 
 There are 28 days in the class.

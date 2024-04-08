@@ -1,6 +1,8 @@
-# Paper choices
+# Note: This paper list is out of date.
 
-**Sorting in progress**
+Please see Perusall for an updated list of papers.
+
+# Paper choices
 
 ## Verification
 
