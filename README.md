@@ -63,6 +63,20 @@ Outside-of-class participation (25%):
 Final project (50%):
 - **Final Project or Final Report (50%)** -- this includes a final presentation.
 
+## Perusall points
+
+Perusall does a good job of automatically grading your participation. I do look through to see if the score is consistent with the 1 comment and 1 question I requested, but I don't change the grade manually unless I notice a discrepancy.
+
+## Reading summaries
+
+New change: I'm only requiring one reading summary per week (pick the one of the three papers you are most interested in), see Piazza.
+
+I will accept late reading summaries, but only for 50% credit.
+
+## Final project details
+
+See Piazza.
+
 ## Attendance
 
 You will be allowed a buffer of 3 free absences; please don't attend class if you are sick. If you need to be absent for more than 3 classes, let me know.
