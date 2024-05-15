@@ -14,7 +14,7 @@
 Welcome! This course is a graduate seminar.
 We will cover topics in programming languages and related areas at a research level. Topics include: programming language design, type systems, program testing and bug-finding, program verification, side effects, system-building, and applications. The primary focus of the course will be on reading papers and in-class discussions. There will also be a final project to synthesize 3 papers in an area of your choosing into either a research report or an implementation.
 
-This seminar will be discussion-based; as such, a small part of your grade is based on attendance. I also encourage you to engage with the material through [Piazza](https://piazza.com/class/lt90mfmxztd4zy) and [Perusall](https://app.perusall.com/join/stanford-mbthq).
+This seminar will be discussion-based; as such, a part of your grade is based on attendance. I also encourage you to engage with the material through [Piazza](https://piazza.com/class/lt90mfmxztd4zy) and [Perusall](https://app.perusall.com/join/stanford-mbthq).
 Most course announcements will be through Piazza.
 The paper readings can be found on Perusall.
 
@@ -71,15 +71,28 @@ Perusall does a good job of automatically grading your participation. I do look 
 
 New change: I'm only requiring one reading summary per week (pick the one of the three papers you are most interested in), see Piazza.
 
-I will accept late reading summaries, but only for 50% credit.
-
 ## Final project details
 
 See Piazza.
 
 ## Attendance
 
-You will be allowed a buffer of 3 free absences; please don't attend class if you are sick. If you need to be absent for more than 3 classes, let me know.
+**Note: This section has been clarified based on feedback from the mid-quarter survey. These clarifications are effective going forward as of May 15.**
+
+You are allowed a buffer of 3 free absences.
+I am assuming that you will use these absences in case you are sick or have to miss class for any other reason.
+No need to email me about the first 3 absences! They will automatically be counted towards your 3 free absences at the end of the quarter.
+If you need to be absent 4 or more times, please email me.
+
+If you are late to class, it counts as 80% for the purposes of attendance (1/5th of an absence), which means that you can use one of your 3 free absences to cover 5 late arrivals.
+**Note:** While this policy has not changed, the precise grade deduction was not clear in the syllabus before. Therefore, if late arrivals prior to week 7 are going to affect your grade, I will email you individually to discuss the situation and the end of the quarter. I expect that this will not affect most of you, but please keep in mind the policy for the remaining weeks.
+
+## Late policy
+
+**Note: This section has been clarified. These clarifications are effective as of May 15.**
+
+I will accept late reading summaries for 50% credit.
+While I can't guarantee that I will accept other late work (especially the final project), you may email me if you need to request an extension.
 
 ## AI Policy
 
